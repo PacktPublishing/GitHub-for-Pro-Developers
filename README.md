@@ -1,2 +1,2 @@
-# GitHub-for-Pro-developers
-GitHub for Pro developers, published by Packt
+# GitHub-for-Pro-Developers
+GitHub for Pro Developers, published by Packt
